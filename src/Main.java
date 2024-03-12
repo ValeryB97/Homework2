@@ -8,34 +8,34 @@ public class Main {
         var paper = 763789;
         System.out.println(paper);
         // Задание 2
-        dog = dog + 4;
+        dog +=4;
         System.out.println(dog);
-        cat = cat + 4;
+        cat +=4;
         System.out.println(cat);
-        paper = paper + 4;
+        paper +=4;
         System.out.println(paper);
         // Задание 3
-        dog = dog - 3.5;
+        dog -=3.5;
         System.out.println(dog);
-        cat = cat - 1.6;
+        cat -=1.6;
         System.out.println(cat);
-        paper = paper - 7639;
+        paper -=7639;
         System.out.println(paper);
         // Задание 4
         var friend = 19;
         System.out.println(friend);
-        friend = friend + 2;
+        friend +=2;
         System.out.println(friend);
-        friend = friend / 7;
+        friend /=7;
         System.out.println(friend);
         // Задание 5
         var frog = 3.5;
         System.out.println(frog);
-        frog = frog * 10;
+        frog *=10;
         System.out.println(frog);
-        frog = frog / 3.5;
+        frog /=3.5;
         System.out.println(frog);
-        frog = frog + 4;
+        frog +=4;
         System.out.println(frog);
         // Задание 6
         var weightOneBoxer = 78.2;
